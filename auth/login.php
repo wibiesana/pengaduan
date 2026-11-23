@@ -146,24 +146,7 @@ require_once __DIR__ . '/../includes/header.php';
             </div>
         </div>
 
-        <!-- Akun Demo Cepat untuk Evaluasi -->
-        <div class="bg-amber-50/80 border border-amber-200 rounded-xl p-4 text-xs text-amber-900">
-            <p class="font-bold mb-1.5 flex items-center gap-1.5 text-amber-800">
-                <i class="fa-solid fa-key"></i> Informasi Akun Pengujian:
-            </p>
-            <div class="grid grid-cols-2 gap-2 text-[11px]">
-                <div class="bg-white/80 p-2 rounded border border-amber-200">
-                    <span class="font-bold text-slate-900 block">Akun Administrator</span>
-                    User: <code class="font-mono bg-amber-100 px-1 rounded">admin</code><br>
-                    Pass: <code class="font-mono bg-amber-100 px-1 rounded">12345678</code>
-                </div>
-                <div class="bg-white/80 p-2 rounded border border-amber-200">
-                    <span class="font-bold text-slate-900 block">Akun Pelapor Siswa</span>
-                    User: <code class="font-mono bg-amber-100 px-1 rounded">siswa1</code><br>
-                    Pass: <code class="font-mono bg-amber-100 px-1 rounded">siswa123</code>
-                </div>
-            </div>
-        </div>
+
     </div>
 </div>
 
